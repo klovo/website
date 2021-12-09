@@ -1,2 +1,2 @@
-# wesbite
+# website
 this is my website lmao
